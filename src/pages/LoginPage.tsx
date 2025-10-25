@@ -25,7 +25,8 @@ export function LoginPage() {
           </div>
 
           <h1 className="text-2xl font-bold text-gray-900 mb-2 text-center">Welcome!</h1>
-          <p className="text-gray-600 mb-6 text-center">Sign in to start your career journey</p>
+          <p className="text-gray-600 mb-6 text-center">Sign up to start your career transition</p>
+          <p className="text-gray-600 mb-6 text-center">We'll ask you a few questions to help us understand your current career and your goals</p>
 
           <form onSubmit={handleSubmit} className="space-y-4">
             <div>
