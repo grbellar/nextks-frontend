@@ -27,6 +27,7 @@ export const PATH_LAYOUT = {
       stroke: '#D1D5DB', // Light gray
       animated: false,
       style: 'solid',
+      dashArray: '0',
     },
     alternative: {
       strokeWidth: 2,

@@ -6,9 +6,6 @@ import type {
 } from '../data/mockData';
 import {
   allNodes,
-  academicPathNodes,
-  vocationalPathNodes,
-  acceleratedPathNodes,
   skills as initialSkills,
   initialMessages,
 } from '../data/mockData';
